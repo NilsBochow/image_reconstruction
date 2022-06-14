@@ -1,10 +1,10 @@
 # Climate Reconstruction via Image Inpainting using Partial Convolutions
 
-**[Applied implementation] (https://github.com/naoto0804/pytorch-inpainting-with-partial-conv)**
+**[Applied implementation](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv)**
 
 **[Official implementation](https://github.com/NVIDIA/partialconv) is released by the authors.**
 
-**[Climate reconstruction implementation] (https://github.com/FREVA-CLINT/climatereconstructionAI)**
+**[Climate reconstruction implementation](https://github.com/FREVA-CLINT/climatereconstructionAI)**
 
 
 This is an unofficial pytorch implementation of a paper, [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/abs/1804.07723) [Liu+, arXiv2018].
