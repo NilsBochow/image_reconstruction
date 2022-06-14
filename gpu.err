@@ -1,0 +1,9 @@
+#######################################################################################
+### conda added to PATH. Use 'source activate' rather than 'conda activate'.        ###
+### Run 'conda init' if prompted *only* after reading the guides:                   ###
+###   /p/system/packages/anaconda/2021.11/bin/conda init --help                     ###
+### and                                                                             ###
+###   https://docs.anaconda.com/anaconda/user-guide/faq/#installing-anaconda        ###
+### tl;dr: 'conda init' will modify your shell outside of the `module` environment  ###
+###                                                                                 ###
+#######################################################################################
